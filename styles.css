@@ -1,0 +1,219 @@
+.edlogo{
+    width: 150px;
+    border-radius: 80px;
+}
+header{
+    display: flex;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    left: 0%;
+    background-color: #007bff;
+    color: white;
+    align-items: center;
+    column-gap: 800px;
+}
+.order-place{
+    background-color: #007bff;;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+}
+.num{
+    color: white;
+}
+.pagelink{
+    display: flex;
+    column-gap: 100px;
+    align-items: center;
+    color: #007bff;;
+}
+.num{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.addcart{
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;
+}
+.home{
+    color: white;
+    text-decoration: none;
+}
+.cloth{
+    width: 500px;
+}
+
+.cloth-image{
+    width:300px;
+}
+.checkout-cloth-image{
+    width: 400px;
+    margin: 20px;
+}
+.product-buttoons{
+    display: flex;
+    column-gap: 20px;
+}
+.addcart-button{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;;
+}
+
+.deletecart-button{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;;
+}
+.each-product-control{
+    position: relative;
+    left: 9%;
+}
+.pagelinkbut{
+    text-decoration: none;
+}
+.checkout-each-product-control{
+    position: relative;
+    left: 3%;
+    margin-top: 150px;
+    margin-right: 30px;
+}
+.all-products-container{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.checkout-products-containe{
+    margin-top: 40px;
+    display: grid;
+}
+    
+.each-product-container{
+    position: relative;
+    padding: 30px;
+    left: 2%;
+    border: 1px solid rgb(222, 222, 222);
+    height: 50%;
+}
+.checkout-each-product-container{
+    position: relative;
+    padding: 30px;
+    left: 2%;
+    border: 1px solid rgb(222, 222, 222);
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+}
+.orgpic{
+    padding-bottom: 0px;
+}
+.img-container{
+    font-size: 30px;
+    color: white ;
+    font-weight: bold;
+}
+.buttoons{
+    display: flex;
+    column-gap: 30px;
+}
+.content{
+    position: absolute;
+    left: 20%;
+    top: 15%;
+}
+.cart{
+    width: 100px;
+}
+.select{
+    background-color: white;
+    border: none;
+}
+.control{
+    position: absolute;
+    top: 100%;
+    left: 20%;
+    bottom: 1px;
+}
+.add{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;;
+}
+
+.addbut{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;;
+}
+.subs{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;;
+}
+.subsbut{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;;
+}
+.summary-firstside{
+    display: flex;
+    column-gap: 100px;
+}
+
+.order-total{
+    display: flex;
+    column-gap: 100px;
+}
+.mainpage{
+    display: flex;
+    column-gap: 250px;
+    margin-top: 100px;
+}
+.payment-summary{
+    padding: 30px;
+    border: 2px solid rgb(222, 222, 222);
+    height: 50%;
+    width: fit-content;
+}
+.order-total{
+    border-top: 1px solid rgb(222, 222, 222);
+}
+.numsed{
+    color: black;
+    margin-top: 5px;
+}
+.donebutton{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: #007bff;
+    text-decoration: none;
+    color: black;
+}
+
+.donebutton:active{
+    border: 2px solid #007bff;;
+}
+.difdesign{
+    width: 200px;
+}
+.cont{
+    display: flex;
+    column-gap: 50px;
+}
+.sidepic{
+    display: grid;
+}
